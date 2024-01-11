@@ -1,4 +1,4 @@
-# Brett Skinner - Data Analysis Portfolio
+# Brett Skinner - Data Analysis/Science Portfolio
 ## About Me
 My background is in Applied Mathematics.  After teaching Mathematics for 10 years, I decided that I wanted to change careers to become a data analyst/scientist. My background in math has trained me in pattern recognition and analysis.  I look forward to bringing my analytical skills to the field of data analyst/scientist. 
 

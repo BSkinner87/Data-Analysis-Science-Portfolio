@@ -8,7 +8,7 @@ In working toward this new career goal, I have taken it upon myself to study dat
 * About Me
 * Projects
   * Tableau
-    * (link to Tableau)
+    * [Tableau public](https://public.tableau.com/app/profile/brett.skinner4090/vizzes)
   * R
     * link to Hate Crimes project maybe Israel/Palestine
   * Python

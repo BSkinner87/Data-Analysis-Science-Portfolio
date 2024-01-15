@@ -21,9 +21,8 @@ In working toward this new career goal, I have taken it upon myself to study dat
 ## Projects
 The following are some of the projects that highlight some of my abilities. 
 ### Analyzing Hate Crimes in America
-#### Code: 
-[Hate Crimes in America](https://github.com/BSkinner87/Portfolio-Projects/blob/main/HateCrimeStats.md)
-#### Goal: 
+**Code:** [Hate Crimes in America](https://github.com/BSkinner87/Portfolio-Projects/blob/main/HateCrimeStats.md)
+**Goal:**  
 
 
 

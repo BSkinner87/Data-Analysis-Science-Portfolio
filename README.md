@@ -15,9 +15,9 @@ In working toward this new career goal, I have taken it upon myself to study dat
   * Python
     * [Dementia Classification](https://github.com/BSkinner87/Portfolio-Projects/blob/main/Dementia.ipynb)
     * [Stroke Prediction](https://github.com/BSkinner87/Portfolio-Projects/blob/main/StrokePredictionModels.ipynb)
-* Education
-* Certificates
-* Contact
+* [Education](#education)
+* [Certificates](#certificates)
+* [Contact](#contact-information)
 ## Projects
 The following are some of the projects that highlight some of my abilities. 
 ### Analyzing Hate Crimes in America

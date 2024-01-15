@@ -6,7 +6,7 @@ In working toward this new career goal, I have taken it upon myself to study dat
 
 ## Table of Contents
 * About Me
-* Projects
+* [Projects](https://github.com/BSkinner87/Data-Analysis-Science-Portfolio/edit/main/README.md#projects)
   * Tableau
     * [Tableau public](https://public.tableau.com/app/profile/brett.skinner4090/vizzes)
   * R

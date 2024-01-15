@@ -10,7 +10,7 @@ In working toward this new career goal, I have taken it upon myself to study dat
   * Tableau
     * [Tableau public](https://public.tableau.com/app/profile/brett.skinner4090/vizzes)
   * R
-    * [Hate Crimes](https://github.com/BSkinner87/Portfolio-Projects/blob/main/HateCrimeStats.md)
+    * [Hate Crimes in America]()
     * [Isreal Palestine Conflict (Pre-Oct. 7)](https://github.com/BSkinner87/Portfolio-Projects/blob/main/Israel_Palestine_Conflict_before_Oct_7_markdown.md)
   * Python
     * [Dementia Classification](https://github.com/BSkinner87/Portfolio-Projects/blob/main/Dementia.ipynb)
@@ -18,7 +18,12 @@ In working toward this new career goal, I have taken it upon myself to study dat
 * Education
 * Certificates
 * Contact
-
+## Projects
+The following are some of the projects that highlight some of my abilities. 
+### Analyzing Hate Crimes in America
+#### Code: 
+[Hate Crimes in America](https://github.com/BSkinner87/Portfolio-Projects/blob/main/HateCrimeStats.md)
+#### Goal: 
 
 
 

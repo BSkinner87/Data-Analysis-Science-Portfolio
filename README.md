@@ -5,7 +5,7 @@ My background is in Applied Mathematics.  After teaching Mathematics for 10 year
 In working toward this new career goal, I have taken it upon myself to study data science and data analysis in my free time. Furthermore, I have completed the Google Data Analytics course (Coursera) and an online data science program through MIT (Great Learning). The hands on projects in these courses gave me valuable knowledge on different techniques used in data science and familiarity with Tableau, Python, and R. 
 
 ## Table of Contents
-* About Me
+* [About Me](#about-me)
 * [Projects](#projects)
   * Tableau
     * [Tableau public](https://public.tableau.com/app/profile/brett.skinner4090/vizzes)
@@ -54,10 +54,15 @@ The following are some of the projects that highlight some of my abilities.
 **Results:** I was able to achieve an 80% recall rating using a random forest. I used recall since I wanted to be on the safe side when predicting strokes. The most important feature in this dataset was age. <br><br><br>
 
 ## Education
+University of Alabama Huntsville: Doctorate - PhD, Applied Mathematics, Aug 2012 - Jul 2018 <br><br>
+California State University Bakersfield - BS, Applied Mathematics, Aug 2008 - May 2012 <br><br>
 
 ## Certificates
+* Google Data Analytics Professional Certificate (Jan 2024) (Coursera - Google)
+* Applied Data Science Program (Oct. 2022) (Great Learning - MIT)
 
 ## Contact Information
-
+* LinkedIn: [Brett Skinner](https://www.linkedin.com/in/brett-skinner-ph-d-b6866b1b2/)
+* Email: [brettskinner87@gmail.com](mailto:brettskinner87@gmail.com)
 
 

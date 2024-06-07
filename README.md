@@ -15,6 +15,7 @@ In working toward this new career goal, I have taken it upon myself to study dat
   * Python
     * [Dementia Classification](https://github.com/BSkinner87/Portfolio-Projects/blob/main/Dementia.ipynb)
     * [Stroke Prediction](https://github.com/BSkinner87/Portfolio-Projects/blob/main/StrokePredictionModels.ipynb)
+    * [Relationship between GDP and Life Expectancy](https://github.com/BSkinner87/Portfolio-Projects/blob/main/life_expectancy_gdp.ipynb)
 * [Education](#education)
 * [Certificates](#certificates)
 * [Contact](#contact-information)
@@ -52,6 +53,14 @@ The following are some of the projects that highlight some of my abilities.
 **Skills:** Decision trees, random forest, KNN, SVM, data cleaning, data analysis, feature importance <br><br>
 **Libraries:** pandas, numpy, sci-kit, seaborn, matplotlib <br><br>
 **Results:** I was able to achieve an 80% recall rating using a random forest. I used recall since I wanted to be on the safe side when predicting strokes. The most important feature in this dataset was age. <br><br><br>
+
+### Relationship between GDP and Life Expectancy
+**Code:** [GDP vs Life Expectancy](https://github.com/BSkinner87/Portfolio-Projects/blob/main/life_expectancy_gdp.ipynb) <br><br>
+**Goal:** To determine if there is a relationship between life expectancy and GDP. (based on a project from Codecademy)<br><br>
+**Description:** This dataset includes 6 countries and have 4 features (country, year, GDP, Life Expectancy) spanning from 2000 to 2015.  I made sure the data was cleaned, and performed some analysis on the limited dataset. <br><br>
+**Skills:** data cleaning, visualizations. <br><br>
+**Libraries:** pandas, seaborn, matplotlib <br><br>
+**Results:** I showed the line graphs of each feature (GDP and Life Expectancy) and showed the scatterplot separated by each country.  There is a strong correlation, though it is unknown how much of the correlation is by direct cause and effect and how much is related to other possible features. <br><br><br>
 
 ## Education
 University of Alabama Huntsville: Doctorate - PhD, Applied Mathematics, Aug 2012 - Jul 2018 <br><br>
